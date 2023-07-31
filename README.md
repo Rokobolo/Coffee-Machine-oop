@@ -13,3 +13,5 @@ This is an OOP version of the coffee machine published earlier this month.
 
 ## Notes
 - It is important to note that only the main.py was written by myself, the rest of the files and code were provided by the teacher.
+
+![image](https://github.com/Rokobolo/Coffee-Machine-oop/assets/139471568/8258aa40-106a-49e2-93ff-7383867ddbb3)
